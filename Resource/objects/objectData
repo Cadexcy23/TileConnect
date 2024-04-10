@@ -1,0 +1,17 @@
+//Options
+//[Name] string
+//[Walkable] bool 1/0
+//[Connect] bool 1/0
+
+[Name] default
+[Walkable] 1
+[Connect] 1
+
+[Name] camp
+[Connect] 0
+
+[Name] wall
+[Walkable] 0
+
+//keep empty at bottom
+[Name] empty

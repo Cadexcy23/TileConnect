@@ -1,0 +1,17 @@
+//Options
+//[Name] string
+//[Walkable] bool 1/0
+//[Connect] bool 1/0
+
+[Name] default
+[Walkable] 1
+[Connect] 1
+
+[Name] grass
+
+[Name] dirt
+
+[Name] water
+[Walkable] 0
+
+[Name] skull
